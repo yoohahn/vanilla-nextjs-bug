@@ -1,0 +1,1 @@
+# vanilla-nextjs-bug

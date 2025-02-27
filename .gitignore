@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#VSCode
+.vscode
+.yarn
+.next
+.vercel
+node_modules
+certificates
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
